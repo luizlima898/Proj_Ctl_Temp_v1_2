@@ -3,8 +3,8 @@
 #include <DHT.h>
 
 // --- CONFIGURAÇÕES ---
-const char* ssid = "Luiz Fernando 2.4Ghz";
-const char* password = "971942255";
+const char* ssid = "***";
+const char* password = "***";
 
 // Substitua pelo IP do seu PC (ex: 192.168.1.15) se estiver local
 // Ou pela URL do Render (ex: https://onrender.com)
